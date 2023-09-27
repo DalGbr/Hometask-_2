@@ -1,0 +1,16 @@
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\bin\Debug\net6.0-windows\VP_Hometask2.exe
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\bin\Debug\net6.0-windows\VP_Hometask2.deps.json
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\bin\Debug\net6.0-windows\VP_Hometask2.runtimeconfig.json
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\bin\Debug\net6.0-windows\VP_Hometask2.dll
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\bin\Debug\net6.0-windows\VP_Hometask2.pdb
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\obj\Debug\net6.0-windows\VP_Hometask2.Form1.resources
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\obj\Debug\net6.0-windows\VP_Hometask2.csproj.GenerateResource.cache
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\obj\Debug\net6.0-windows\VP_Hometask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\obj\Debug\net6.0-windows\VP_Hometask2.AssemblyInfoInputs.cache
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\obj\Debug\net6.0-windows\VP_Hometask2.AssemblyInfo.cs
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\obj\Debug\net6.0-windows\VP_Hometask2.csproj.CoreCompileInputs.cache
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\obj\Debug\net6.0-windows\VP_Hometask2.dll
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\obj\Debug\net6.0-windows\refint\VP_Hometask2.dll
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\obj\Debug\net6.0-windows\VP_Hometask2.pdb
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\obj\Debug\net6.0-windows\VP_Hometask2.genruntimeconfig.cache
+C:\Visual Programming\VP_Hometask2\VP_Hometask2\obj\Debug\net6.0-windows\ref\VP_Hometask2.dll
